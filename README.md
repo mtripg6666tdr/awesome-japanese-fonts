@@ -61,11 +61,13 @@
 - [はれのそら明朝](https://fontopo.com/?p=377)
 - [ほのか明朝](https://font.gloomy.jp/honoka-mincho-dl.html)
 
-## デザイン
+## デザイン / その他未分類
 - [ステッキ (Google Fonts)](https://fonts.google.com/specimen/Stick#standard-styles)
 - [3D rock (Google Fonts)](https://fonts.google.com/specimen/Rock+3D?subset=japanese#standard-styles)
 - [Train One (Google Fonts)](https://fonts.google.com/specimen/Train+One?subset=japanese)
 - [Yusei Magic (Google Fonts)](https://fonts.google.com/specimen/Yusei+Magic?subset=japanese&noto.script=Jpan)
+- [マキナス 4 Flat / Square](https://moji-waku.com/makinas/)
+- [マメロン](https://moji-waku.com/mamelon/index.html)
 - [にくまるフォント (派生フォント)](http://www.fontna.com/blog/1651/)
 
 ## ドット文字
