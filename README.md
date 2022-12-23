@@ -32,10 +32,6 @@
   - [Kaisei HarunoUmi (Google Fonts)](https://fonts.google.com/specimen/Kaisei+HarunoUmi?subset=japanese&noto.script=Jpan&query=Font-Kai)
 - [LINE Seed JP](https://seed.line.me/index_jp.html)
 - [超極細ゴシック](http://font.websozai.jp/line-font-mihon.html)
-- [JKゴシック](http://font.cutegirl.jp/category/font)
-  - [JKゴシックL](http://font.cutegirl.jp/jk-font-light.html)
-  - [JKゴシックM](http://font.cutegirl.jp/jk-font-medium.html)
-  - [JK丸ゴシック](http://font.cutegirl.jp/jkmarugo.html)
 - [チョーク](http://font.cutegirl.jp/category/font)
   - [チョーク体](http://font.cutegirl.jp/chalk-font-free.html)
   - [チョークS](http://font.cutegirl.jp/chalk-s.html)
@@ -61,18 +57,6 @@
 - [はれのそら明朝](https://fontopo.com/?p=377)
 - [ほのか明朝](https://font.gloomy.jp/honoka-mincho-dl.html)
 
-## デザイン / その他未分類
-- [ステッキ (Google Fonts)](https://fonts.google.com/specimen/Stick#standard-styles)
-- [3D rock (Google Fonts)](https://fonts.google.com/specimen/Rock+3D?subset=japanese#standard-styles)
-- [Train One (Google Fonts)](https://fonts.google.com/specimen/Train+One?subset=japanese)
-- [Yusei Magic (Google Fonts)](https://fonts.google.com/specimen/Yusei+Magic?subset=japanese&noto.script=Jpan)
-- [マキナス 4 Flat / Square](https://moji-waku.com/makinas/)
-- [マメロン](https://moji-waku.com/mamelon/index.html)
-- [にくまるフォント (派生フォント)](http://www.fontna.com/blog/1651/)
-
-## ドット文字
-- [ドットゴシック](https://fonts.google.com/specimen/DotGothic16?subset=japanese#standard-styles)
-
 ## 手書きフォント
 - [あんずもじ](http://www8.plala.or.jp/p_dolce/)
   - [あんずもじ2020 / あんずもじ2020 等幅](http://www8.plala.or.jp/p_dolce/site3-7.html)
@@ -82,6 +66,20 @@
 - [なつめもじ](http://www8.plala.or.jp/p_dolce/)
   - [なつめもじ](http://www8.plala.or.jp/p_dolce/site3-5.html)
   - [なつめもじ抑](http://www8.plala.or.jp/p_dolce/site3-6.html)
+- [JKゴシック](http://font.cutegirl.jp/category/font)
+  - [JKゴシックL](http://font.cutegirl.jp/jk-font-light.html)
+  - [JKゴシックM](http://font.cutegirl.jp/jk-font-medium.html)
+  - [JK丸ゴシック](http://font.cutegirl.jp/jkmarugo.html)
+  
+## デザイン / その他未分類
+- [ステッキ (Google Fonts)](https://fonts.google.com/specimen/Stick#standard-styles)
+- [3D rock (Google Fonts)](https://fonts.google.com/specimen/Rock+3D?subset=japanese#standard-styles)
+- [Train One (Google Fonts)](https://fonts.google.com/specimen/Train+One?subset=japanese)
+- [Yusei Magic (Google Fonts)](https://fonts.google.com/specimen/Yusei+Magic?subset=japanese&noto.script=Jpan)
+- [マキナス 4 Flat / Square](https://moji-waku.com/makinas/)
+- [マメロン](https://moji-waku.com/mamelon/index.html)
+- [にくまるフォント (派生フォント)](http://www.fontna.com/blog/1651/)
+- [ドットゴシック](https://fonts.google.com/specimen/DotGothic16?subset=japanese#standard-styles)
 
 ## プログラミング用カスタムフォント
 - [Cica](https://github.com/miiton/Cica)
