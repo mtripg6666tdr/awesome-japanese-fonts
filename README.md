@@ -5,7 +5,7 @@
 ## ゴシック体
 - [Noto Sans jp](https://github.com/googlefonts/noto-cjk)
   - [Noto Sans Japanese (Google Fonts)](https://fonts.google.com/noto/specimen/Noto+Sans+JP?subset=japanese&noto.script=Jpan)
-- [IBM Plex sans jp](https://github.com/IBM/plex)
+- [IBM Plex Sans JP](https://github.com/IBM/plex)
   - [IBM Plex Sans JP (Google Fonts)](https://fonts.google.com/specimen/IBM+Plex+Sans+JP?subset=japanese&noto.script=Jpan)
 - [Morisawa BIZ UDGothic](https://github.com/googlefonts/morisawa-biz-ud-gothic)
   - [BIZ UD Gothic (Google Fonts)](https://fonts.google.com/specimen/BIZ+UDGothic?subset=japanese&noto.script=Jpan)
