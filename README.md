@@ -32,6 +32,14 @@
   - [Kaisei Tokumin (Google Fonts)](https://fonts.google.com/specimen/Kaisei+Tokumin?subset=japanese&noto.script=Jpan&query=Font-Kai)
   - [Kaisei HarunoUmi (Google Fonts)](https://fonts.google.com/specimen/Kaisei+HarunoUmi?subset=japanese&noto.script=Jpan&query=Font-Kai)
 - [LINE Seed JP](https://seed.line.me/index_jp.html)
+- [超極細ゴシック](http://font.websozai.jp/line-font-mihon.html)
+- [JKゴシック](http://font.cutegirl.jp/category/font)
+  - [JKゴシックL](http://font.cutegirl.jp/jk-font-light.html)
+  - [JKゴシックM](http://font.cutegirl.jp/jk-font-medium.html)
+  - [JK丸ゴシック](http://font.cutegirl.jp/jkmarugo.html)
+- [チョーク](http://font.cutegirl.jp/category/font)
+  - [チョーク体](http://font.cutegirl.jp/chalk-font-free.html)
+  - [チョークS](http://font.cutegirl.jp/chalk-s.html)
 
 ## 丸ゴシック
 - [かなたとひなたフォント](https://flopdesign.com/syotai/kanata.html)
