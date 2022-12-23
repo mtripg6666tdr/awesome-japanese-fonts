@@ -16,8 +16,7 @@
   - [M PLUS 1p (Google Fonts)](https://fonts.google.com/specimen/M+PLUS+1p?subset=japanese&noto.script=Jpan)
   - [M PLUS 1 Code (Google Fonts)](https://fonts.google.com/specimen/M+PLUS+1+Code?subset=japanese&noto.script=Jpan&query=Coji+Morishita)
   - [M PLUS 2 (Google Fonts)](https://fonts.google.com/specimen/M+PLUS+2?subset=japanese&noto.script=Jpan)
-  - [にくまるフォント (派生フォント)](http://www.fontna.com/blog/1651/)
-  - [ロゴたいぷゴシック (派生フォント)](http://www.fontna.com/blog/1226/)
+- [ロゴたいぷゴシック (派生フォント)](http://www.fontna.com/blog/1226/)
 - [モガゴシック](https://www.flopdesign.com/shop/moga.html)
 - [Kosugi (Google Fonts)](https://fonts.google.com/specimen/Kosugi)
 - [さわらびゴシック](https://sawarabi-fonts.osdn.jp)
@@ -66,6 +65,7 @@
 - [3D rock (Google Fonts)](https://fonts.google.com/specimen/Rock+3D?subset=japanese#standard-styles)
 - [Train One (Google Fonts)](https://fonts.google.com/specimen/Train+One?subset=japanese)
 - [Yusei Magic (Google Fonts)](https://fonts.google.com/specimen/Yusei+Magic?subset=japanese&noto.script=Jpan)
+- [にくまるフォント (派生フォント)](http://www.fontna.com/blog/1651/)
 
 ## ドット文字
 - [ドットゴシック](https://fonts.google.com/specimen/DotGothic16?subset=japanese#standard-styles)
