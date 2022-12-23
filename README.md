@@ -54,7 +54,7 @@
 - [はれのそら明朝](https://fontopo.com/?p=377)
 - [ほのか明朝](https://font.gloomy.jp/honoka-mincho-dl.html)
 
-## 手書きフォント
+## 手書き
 - [あんずもじ](http://www8.plala.or.jp/p_dolce/)
   - [あんずもじ2020 / あんずもじ2020 等幅](http://www8.plala.or.jp/p_dolce/site3-7.html)
   - [あんずもじ / あんずもじ等幅](http://www8.plala.or.jp/p_dolce/site3-1.html)
@@ -81,7 +81,7 @@
   - [チョーク体](http://font.cutegirl.jp/chalk-font-free.html)
   - [チョークS](http://font.cutegirl.jp/chalk-s.html)
 
-## プログラミング用カスタムフォント
+## プログラミング用
 - [Cica](https://github.com/miiton/Cica)
 - [Ricty](https://github.com/kudryavka/Ricty)
 - [UDEV Gothic](https://github.com/yuru7/udev-gothic)
