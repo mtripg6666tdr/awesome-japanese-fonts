@@ -43,8 +43,9 @@
 ## 丸ゴシック
 - [かなたとひなたフォント](https://flopdesign.com/syotai/kanata.html)
 - [いろはまる](http://modi.jpn.org/font_irohamaru.php)
-- [小杉丸ゴシック (Google Fonts)](https://fonts.google.com/specimen/Kosugi+Maru#standard-styles)
-- [Kiwi Maru (Google Fonts)](https://fonts.google.com/specimen/Kiwi+Maru?subset=japanese#about)
+- [Kosugi Maru (Google Fonts)](https://fonts.google.com/specimen/Kosugi+Maru#standard-styles)
+- [キウイ丸](https://github.com/Kiwi-KawagotoKajiru/Kiwi-Maru)
+  - [Kiwi Maru (Google Fonts)](https://fonts.google.com/specimen/Kiwi+Maru?subset=japanese#about)
 - [ほのか新丸ゴシック](https://font.gloomy.jp/honoka-maru-gothic-dl.html)
 - [ほのか新アンティーク丸](https://font.gloomy.jp/honoka-antique-maru-dl.html)
 
