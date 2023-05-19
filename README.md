@@ -32,6 +32,7 @@
   - [Kaisei HarunoUmi (Google Fonts)](https://fonts.google.com/specimen/Kaisei+HarunoUmi?subset=japanese&noto.script=Jpan&query=Font-Kai)
 - [LINE Seed JP](https://seed.line.me/index_jp.html)
 - [超極細ゴシック](http://font.websozai.jp/line-font-mihon.html)
+- [源柔ゴシック](http://jikasei.me/font/genjyuu/)
 
 ## 丸ゴシック
 - [かなたとひなたフォント](https://flopdesign.com/syotai/kanata.html)
