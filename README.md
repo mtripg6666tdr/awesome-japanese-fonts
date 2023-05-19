@@ -80,6 +80,7 @@
 - [チョーク](http://font.cutegirl.jp/category/font)
   - [チョーク体](http://font.cutegirl.jp/chalk-font-free.html)
   - [チョークS](http://font.cutegirl.jp/chalk-s.html)
+- [なぎさのきどりっこ（リボン＆のーまる）](https://www.flopdesign.com/font4/nagisanokidoricco-font.html)
 
 ## プログラミング用
 - [Cica](https://github.com/miiton/Cica)
